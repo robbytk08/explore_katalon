@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BUTTON_ADD_CUSTOMER</name>
+   <tag></tag>
+   <elementGuidId>7a2f8d48-efab-41b5-aa49-8d5d6e757d2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//body/div[1]/div[1]/div[2]/div[1]/div[1]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//body/div[1]/div[1]/div[2]/div[1]/div[1]/button[1]</value>
+      <webElementGuid>21f2330b-34d6-448f-8703-ed174e18520d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
